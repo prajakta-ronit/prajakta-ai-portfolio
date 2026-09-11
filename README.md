@@ -1,6 +1,6 @@
 # Prajakta AI Portfolio
 
-A responsive, interactive portfolio website for an AI/ML Engineer and AI Teacher/Trainer.
+A responsive, interactive portfolio website for an AI/ML Engineer.
 
 ## Run
 Open `index.html` in any modern browser.
